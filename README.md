@@ -9,8 +9,8 @@ A fun AI-powered guessing game. You are given hints and have to guess the correc
 
 ## 📸 Screenshot
 
-![Emoji Guesser](./emoji-guesser-Screenshot.png)
-![Emoji Guesser](./emoji-guesser-Screenshot(2).png)
+![Emoji Guesser](./emoji-guesser-ai-Screenshot.png)
+![Emoji Guesser](./emoji-guesser-ai-Screenshot(2).png)
 
 ## 🛠️ Technologies Used
 - HTML
